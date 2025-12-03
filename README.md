@@ -1,9 +1,3 @@
-Below is your **README.md** written in the **same structure, tone, and formatting** as the reference you provided — but fully adapted to your **Call Center Trends Analysis** dashboard.
-
-You can copy and paste this directly into GitHub.
-
----
-
 # **Call Center Trends Analysis**
 
 ## **Data Analysis & Visualization Project**
